@@ -1,0 +1,8 @@
+{
+  "name": "rep Burmese Movie Recap AI",
+  "description": "Transform YouTube transcripts or videos into engaging, high-energy Burmese movie recap scripts with AI-generated narration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
